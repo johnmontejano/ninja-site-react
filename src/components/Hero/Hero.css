@@ -1,0 +1,12 @@
+.hero-bg {
+  background: url('https://i.postimg.cc/d1mBtpD1/sample-bg.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  padding: 8rem 0 5rem 0;
+}
+
+#subtitle {
+  margin-bottom: 2rem;
+}
