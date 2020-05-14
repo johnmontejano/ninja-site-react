@@ -8,7 +8,7 @@ const HowItWorks = () => {
     <div className="MainContainer">
       <Container>
         <Typography variant="h2">How it works</Typography>
-        <Grid container spacing={3}>
+        <Grid container spacing={3} alignContent="center">
           <Grid item sm={4}>
             <img
               src="https://i.postimg.cc/3NNb4KKK/undraw-Calculator-0evy.png"

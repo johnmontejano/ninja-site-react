@@ -10,3 +10,10 @@
 #subtitle {
   margin-bottom: 2rem;
 }
+.card {
+  background: red;
+  padding: 30px;
+}
+.card img {
+  width: 20px;
+}
