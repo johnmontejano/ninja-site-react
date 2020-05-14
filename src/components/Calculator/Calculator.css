@@ -4,6 +4,9 @@
 .Calculator {
   padding: 3rem;
 }
+.Calculator img {
+  width: 90px;
+}
 .Paper {
   padding: 3rem;
 }

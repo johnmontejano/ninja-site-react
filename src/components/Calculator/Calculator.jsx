@@ -32,6 +32,7 @@ const Calculator = () => {
     <div className="CalculatorContainer">
       <Container>
         <Typography variant="h2">Calculate Price</Typography>
+
         <div className="Calculator">
           <form action="">
             <Paper className="Paper">

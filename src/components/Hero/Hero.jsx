@@ -10,11 +10,13 @@ const Hero = () => {
     <div className="hero-bg">
       <Container>
         <Typography variant="h2">Phone</Typography>
-        <Typography variant="h3">Repair</Typography>
-        <Typography variant="h5" id="subtitle">
+        <Typography variant="h3">
+          <b>Repair</b>
+        </Typography>
+        <Typography variant="h5" id="subtitle" gutterBottom={true}>
           at your door, within same hour
         </Typography>
-        <Button color="primary" variant="contained">
+        <Button color="primary" size="large" variant="contained">
           Repair Now
         </Button>
       </Container>

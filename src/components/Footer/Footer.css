@@ -1,0 +1,8 @@
+.Footer {
+  background: #3f51b5;
+  color: white;
+  padding: 3rem;
+}
+.Footer ul {
+  list-style-type: none;
+}
