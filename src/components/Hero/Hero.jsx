@@ -7,18 +7,18 @@ import red from '@material-ui/core/colors/red';
 
 const Hero = () => {
   return (
-    <Container className="hero-bg">
-      <Container className="hero-content" maxWidth="sm">
-        <Typography variant="h3">Phone</Typography>
+    <div className="hero-bg">
+      <Container>
+        <Typography variant="h2">Phone</Typography>
         <Typography variant="h3">Repair</Typography>
         <Typography variant="h5" id="subtitle">
           at your door, within same hour
         </Typography>
         <Button color="primary" variant="contained">
-          Hello World
+          Repair Now
         </Button>
       </Container>
-    </Container>
+    </div>
   );
 };
 export default Hero;
